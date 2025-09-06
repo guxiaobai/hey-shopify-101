@@ -2,10 +2,6 @@
 
 
 
-
-
-
-
 ## Ref
 
 * <https://shopify.dev/docs/storefronts>
